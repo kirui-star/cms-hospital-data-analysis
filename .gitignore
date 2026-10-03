@@ -1,0 +1,20 @@
+# Python virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Raw datasets
+01_raw/
+*.csv
+
+# Generated/cleaned data
+02_cleaned/
+
+# OS files
+.DS_Store
+Thumbs.db
